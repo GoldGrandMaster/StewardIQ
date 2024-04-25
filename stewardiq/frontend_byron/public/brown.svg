@@ -1,0 +1,37 @@
+<svg width="185" height="37" viewBox="0 0 185 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_122_904)">
+<g clip-path="url(#clip0_122_904)">
+<rect x="6" y="4" width="173" height="25" rx="4" fill="#FFDDC4"/>
+<rect x="16.764" y="-17.5259" width="6" height="52" transform="rotate(19.608 16.764 -17.5259)" fill="white" fill-opacity="0.22"/>
+<rect x="28.5598" y="-16.3676" width="6" height="52" transform="rotate(19.608 28.5598 -16.3676)" fill="white" fill-opacity="0.22"/>
+<rect x="40.3556" y="-15.2094" width="6" height="52" transform="rotate(19.608 40.3556 -15.2094)" fill="white" fill-opacity="0.22"/>
+<rect x="52.1514" y="-14.0511" width="6" height="52" transform="rotate(19.608 52.1514 -14.0511)" fill="white" fill-opacity="0.22"/>
+<rect x="63.9472" y="-12.8929" width="6" height="52" transform="rotate(19.608 63.9472 -12.8929)" fill="white" fill-opacity="0.22"/>
+<rect x="75.743" y="-11.7346" width="6" height="52" transform="rotate(19.608 75.743 -11.7346)" fill="white" fill-opacity="0.22"/>
+<rect x="87.5388" y="-10.5764" width="6" height="52" transform="rotate(19.608 87.5388 -10.5764)" fill="white" fill-opacity="0.22"/>
+<rect x="99.3347" y="-9.41815" width="6" height="52" transform="rotate(19.608 99.3347 -9.41815)" fill="white" fill-opacity="0.22"/>
+<rect x="111.13" y="-8.25989" width="6" height="52" transform="rotate(19.608 111.13 -8.25989)" fill="white" fill-opacity="0.22"/>
+<rect x="122.926" y="-7.10162" width="6" height="52" transform="rotate(19.608 122.926 -7.10162)" fill="white" fill-opacity="0.22"/>
+<rect x="134.722" y="-5.94336" width="6" height="52" transform="rotate(19.608 134.722 -5.94336)" fill="white" fill-opacity="0.22"/>
+<rect x="146.518" y="-4.78516" width="6" height="52" transform="rotate(19.608 146.518 -4.78516)" fill="white" fill-opacity="0.22"/>
+<rect x="158.314" y="-3.62689" width="6" height="52" transform="rotate(19.608 158.314 -3.62689)" fill="white" fill-opacity="0.22"/>
+<rect x="170.109" y="-2.46863" width="6" height="52" transform="rotate(19.608 170.109 -2.46863)" fill="white" fill-opacity="0.22"/>
+<rect x="181.905" y="-1.31036" width="6" height="52" transform="rotate(19.608 181.905 -1.31036)" fill="white" fill-opacity="0.22"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_122_904" x="0" y="0" width="185" height="37" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_122_904"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_122_904" result="shape"/>
+</filter>
+<clipPath id="clip0_122_904">
+<rect x="6" y="4" width="173" height="25" rx="4" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@bitnoi.se/react-scheduler": "^0.1.5"
+  }
+}

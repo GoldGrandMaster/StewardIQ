@@ -1,0 +1,26 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "CloudSQL-PostgreSQL",
+            "impersonatedServiceAccount": "appdb-432@ip-app-001.iam.gserviceaccount.com",
+            "credentialsFile": "/workspace/cloud_sql_proxy/ip-app-001-8774b81e7b15.json",
+            "database": "appdb",
+            "username": "appdb-432@ip-app-001.iam",
+            "name": "stewardiq_appdb",
+            "instanceConnectionName": "ip-app-001:us-west1:stewardiq-db",
+            "iamAuthentication": true
+        },
+        {
+            "previewLimit": 50,
+            "driver": "CloudSQL-PostgreSQL",
+            "impersonatedServiceAccount": "appdb-432@ip-app-001.iam.gserviceaccount.com",
+            "credentialsFile": "/workspace/cloud_sql_proxy/ip-app-001-8774b81e7b15.json",
+            "username": "appdb-432@ip-app-001.iam",
+            "database": "vectordb",
+            "name": "stewardiq_vectordb",
+            "instanceConnectionName": "ip-app-001:us-west1:stewardiq-db",
+            "iamAuthentication": true
+        }
+    ]
+}
